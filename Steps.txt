@@ -1,0 +1,18 @@
+Clone -      git clone location   https://github.com/AnanthPathri/Ms6.git
+
+go to git folder
+add -      git add filename
+
+
+git status
+
+
+git commit -m "Any message"
+
+
+
+git push origin head
+
+
+
+git pull origin main
